@@ -13,6 +13,9 @@
 		9712CBA51CEA6FD60071B375 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9712CBA31CEA6FD60071B375 /* Main.storyboard */; };
 		9712CBA71CEA6FD60071B375 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9712CBA61CEA6FD60071B375 /* Assets.xcassets */; };
 		9712CBAA1CEA6FD60071B375 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9712CBA81CEA6FD60071B375 /* LaunchScreen.storyboard */; };
+		9712CBB21CEA79670071B375 /* Lighthouse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9712CBB11CEA79670071B375 /* Lighthouse.jpg */; };
+		9712CBB41CEA79710071B375 /* Lighthouse-night.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9712CBB31CEA79710071B375 /* Lighthouse-night.jpg */; };
+		9712CBB61CEA797B0071B375 /* Lighthouse-in-Field.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9712CBB51CEA797B0071B375 /* Lighthouse-in-Field.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		9712CBA61CEA6FD60071B375 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9712CBA91CEA6FD60071B375 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9712CBAB1CEA6FD60071B375 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9712CBB11CEA79670071B375 /* Lighthouse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Lighthouse.jpg; path = ../../../../Downloads/Lighthouse.jpg; sourceTree = "<group>"; };
+		9712CBB31CEA79710071B375 /* Lighthouse-night.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Lighthouse-night.jpg"; path = "../../../../Downloads/Lighthouse-night.jpg"; sourceTree = "<group>"; };
+		9712CBB51CEA797B0071B375 /* Lighthouse-in-Field.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Lighthouse-in-Field.jpg"; path = "../../../../Downloads/Lighthouse-in-Field.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +70,9 @@
 				9712CBA11CEA6FD60071B375 /* ViewController.m */,
 				9712CBA31CEA6FD60071B375 /* Main.storyboard */,
 				9712CBA61CEA6FD60071B375 /* Assets.xcassets */,
+				9712CBB11CEA79670071B375 /* Lighthouse.jpg */,
+				9712CBB51CEA797B0071B375 /* Lighthouse-in-Field.jpg */,
+				9712CBB31CEA79710071B375 /* Lighthouse-night.jpg */,
 				9712CBA81CEA6FD60071B375 /* LaunchScreen.storyboard */,
 				9712CBAB1CEA6FD60071B375 /* Info.plist */,
 				9712CB9A1CEA6FD60071B375 /* Supporting Files */,
@@ -137,6 +146,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9712CBAA1CEA6FD60071B375 /* LaunchScreen.storyboard in Resources */,
+				9712CBB21CEA79670071B375 /* Lighthouse.jpg in Resources */,
+				9712CBB41CEA79710071B375 /* Lighthouse-night.jpg in Resources */,
+				9712CBB61CEA797B0071B375 /* Lighthouse-in-Field.jpg in Resources */,
 				9712CBA71CEA6FD60071B375 /* Assets.xcassets in Resources */,
 				9712CBA51CEA6FD60071B375 /* Main.storyboard in Resources */,
 			);
