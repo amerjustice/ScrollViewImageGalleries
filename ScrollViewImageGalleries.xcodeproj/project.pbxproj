@@ -16,6 +16,7 @@
 		9712CBB21CEA79670071B375 /* Lighthouse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9712CBB11CEA79670071B375 /* Lighthouse.jpg */; };
 		9712CBB41CEA79710071B375 /* Lighthouse-night.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9712CBB31CEA79710071B375 /* Lighthouse-night.jpg */; };
 		9712CBB61CEA797B0071B375 /* Lighthouse-in-Field.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9712CBB51CEA797B0071B375 /* Lighthouse-in-Field.jpg */; };
+		978A48711CEABACF00237E44 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 978A48701CEABACF00237E44 /* SecondViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		9712CBB11CEA79670071B375 /* Lighthouse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Lighthouse.jpg; path = ../../../../Downloads/Lighthouse.jpg; sourceTree = "<group>"; };
 		9712CBB31CEA79710071B375 /* Lighthouse-night.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Lighthouse-night.jpg"; path = "../../../../Downloads/Lighthouse-night.jpg"; sourceTree = "<group>"; };
 		9712CBB51CEA797B0071B375 /* Lighthouse-in-Field.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Lighthouse-in-Field.jpg"; path = "../../../../Downloads/Lighthouse-in-Field.jpg"; sourceTree = "<group>"; };
+		978A486F1CEABACF00237E44 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SecondViewController.h; path = ../SecondViewController.h; sourceTree = "<group>"; };
+		978A48701CEABACF00237E44 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SecondViewController.m; path = ../SecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 			children = (
 				9712CB9D1CEA6FD60071B375 /* AppDelegate.h */,
 				9712CB9E1CEA6FD60071B375 /* AppDelegate.m */,
+				978A486F1CEABACF00237E44 /* SecondViewController.h */,
+				978A48701CEABACF00237E44 /* SecondViewController.m */,
 				9712CBA01CEA6FD60071B375 /* ViewController.h */,
 				9712CBA11CEA6FD60071B375 /* ViewController.m */,
 				9712CBA31CEA6FD60071B375 /* Main.storyboard */,
@@ -161,6 +166,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				978A48711CEABACF00237E44 /* SecondViewController.m in Sources */,
 				9712CBA21CEA6FD60071B375 /* ViewController.m in Sources */,
 				9712CB9F1CEA6FD60071B375 /* AppDelegate.m in Sources */,
 				9712CB9C1CEA6FD60071B375 /* main.m in Sources */,
@@ -312,6 +318,7 @@
 				9712CBB01CEA6FD60071B375 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
